@@ -1,0 +1,42 @@
+.PixCreditCardInfoInput {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  font-family: "Nunito";
+}
+
+.PixCreditCardInfoInputRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+.PixCreditCardInfoButton {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.PixCreditCardInfoTimer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.PixCreditCardInfoText {
+  color: #e5e5e5;
+}
+
+.PixCreditCardInfoTimerP,
+.PixCreditCardInfoText {
+  margin: 0;
+}
+.PixCreditCardInfoTimerP {
+  font-weight: 800;
+}
+.PixCreditPaymentInfo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

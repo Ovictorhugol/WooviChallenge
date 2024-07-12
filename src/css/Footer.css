@@ -1,0 +1,15 @@
+.Footer {
+  color: #afafaf;
+  font-weight: 600;
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  font-family: "Nunito";
+}
+
+.FooterLogo {
+  width: 2.5rem;
+  filter: grayscale(100%);
+}

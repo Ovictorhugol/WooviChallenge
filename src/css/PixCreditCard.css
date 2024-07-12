@@ -1,0 +1,41 @@
+.PixCreditCard {
+  font-family: "Nunito";
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.PixCreditCardImg {
+  max-width: 17rem;
+  border: 1px solid #03d69d;
+  border-radius: 8px;
+  padding: 6px;
+  margin-bottom: 1rem;
+}
+.PixCreditCardButtonInfo {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.PixCreditCardTextTimer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 1rem;
+}
+.PixCreditCardText {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 600;
+  color: #b2b2b2;
+}
+.PixCreditCardTimer {
+  display: flex;
+  flex-direction: row;
+}
+
+.PixCreditCardTimerP {
+  font-weight: 600;
+  margin: 0;
+}
